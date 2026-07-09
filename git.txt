@@ -1,1 +1,2 @@
 This is my first git hub learning session
+i am pushing an merging the file to main file
